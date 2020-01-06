@@ -1,0 +1,10 @@
+#heading {
+    background-color: darkslategray;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#searchColumn {
+    background-color: lightgray;
+}
